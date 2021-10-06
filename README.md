@@ -18,3 +18,9 @@ var fruits = ["apple", "orange", "cherry"]
 - use Array .isEmpty
 - use Array .first()
 - use Array .removeFirst()
+
+## Bonus
+- Add & Commit your solution.
+- Create another branch and name it : bonus
+- Checkout the newly created branch.
+- solve the LAP again , but instead of using Array .isEmpty . Use Array .count
