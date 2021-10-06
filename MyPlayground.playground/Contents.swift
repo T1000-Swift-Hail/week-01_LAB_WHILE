@@ -11,7 +11,3 @@ while !fruits.isEmpty {
     fruits.removeFirst()
 }
 
-print(fruits)
-//Now Array is empty ^_^
-
-
