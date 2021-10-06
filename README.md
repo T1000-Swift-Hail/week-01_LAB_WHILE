@@ -16,7 +16,7 @@ var fruits = ["apple", "orange", "cherry"]
 
 - use Logical operator : not 
 - use Array .isEmpty
-- use Array .first()
+- use Array .first
 - use Array .removeFirst()
 
 ## Bonus
