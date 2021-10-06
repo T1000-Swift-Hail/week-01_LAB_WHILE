@@ -3,7 +3,7 @@ import UIKit
 var fruits = ["apple", "orange", "Cherry"]
 
 fruits.first
-fruits.isEmpty
+fruits.count
 fruits.removeFirst()
 
 while !(fruits.isEmpty) {
