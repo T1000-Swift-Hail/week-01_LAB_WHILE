@@ -5,10 +5,12 @@ var greeting = "Hello, playground"
 
 var fruits = ["apple","orange","cherry"]
 
-while !fruits.isEmpty {
+    fruits.count
+    print(fruits)
 
+
+while fruits.count != 0 {
     print(fruits.first!)
     fruits.removeFirst()
     print(fruits)
-
 }
